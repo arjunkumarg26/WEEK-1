@@ -13,6 +13,10 @@ print("\nPyramid Pattern:")
 for i in range(1, rows + 1):
     print(" " * (rows - i) + "* " * (2 * i - 1))
 ```
-
+```markdown
+This Python program prints three different star patterns using loops:
+- Lower Triangular Pattern
+- Upper Triangular Pattern
+- Centered Pyramid Pattern
 
 
